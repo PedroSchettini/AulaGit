@@ -8,7 +8,7 @@ Adicione aqui a descrição sobre o seu Pull Request
 - [ ] Criar uma classe para cada div com fotos de gatos
 - [ ] Ter um h2 dentro de cada div
 - [ ] Colocar um alt em todas as imagens
-- [ ] Colocar o gitIgnore dentro dele mesmo
+- [ ] Colocar "ArquivosDelicados" dentro do gitIgnore
 
 ### Lista de checagem para o Pre-Merge
 
